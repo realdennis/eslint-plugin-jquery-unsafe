@@ -63,3 +63,14 @@ npm test
 ## License
 
 Distributed under the MIT license. See LICENSE for details.
+
+## Links
+
+- [Dataset of Unsafe jQuery Method Calls](https://github.com/mvondracek/jQuery-XSS/tree/master/dataset)
+- [jQuery XSS Static Analyser: Static analyser for JavaScript which
+  can detect use of unsafe jQuery methods which are vulnerable to XSS attack](https://github.com/mvondracek/jQuery-XSS)
+- Martin Vondráček, Ibrahim Baggili, Peter Casey, and Mehdi Mekni.
+  *Rise of the Metaverse's Immersive Virtual Reality Malware and
+  the Man-in-the-Room Attack & Defenses*. Computers \& Security.
+  vol. 127. p. 102923. 2023. Online.
+  https://www.sciencedirect.com/science/article/pii/S0167404822003157
