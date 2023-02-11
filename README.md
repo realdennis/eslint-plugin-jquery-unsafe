@@ -62,7 +62,7 @@ npm test
 
 ## License
 
-Distributed under the MIT license. See LICENSE for details.
+Distributed under the MIT license. See [LICENSE](./LICENSE) for details.
 
 ## Links
 
