@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-jquery-unsafe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Disallow jQuery functions with XSS potential.",
   "repository": "cdd/eslint-plugin-jquery-unsafe",
   "license": "MIT",
@@ -9,7 +9,12 @@
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "David Graham",
+  "author": "Kelly Joseph Price",
+  "contributors": [
+    "David Graham",
+    "Greg Rock",
+    "Martin Vondracek"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter dot tests/"
@@ -18,7 +23,7 @@
     "eslint": ">=2.3.0"
   },
   "devDependencies": {
-    "eslint": "^2.7.0",
-    "mocha": "^2.4.5"
+    "eslint": "^8.33.0",
+    "mocha": "^10.2.0"
   }
 }
